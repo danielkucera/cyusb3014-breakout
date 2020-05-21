@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name usb_controller)(type Legacy)(uri ${KIPRJMOD}/lib/usb_controller.lib)(options "")(descr ""))
+  (lib (name MP2359)(type Legacy)(uri ${KIPRJMOD}/lib/MP2359.lib)(options "")(descr ""))
+  (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri ${KIPRJMOD}/lib/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
+  (lib (name project-rescue)(type Legacy)(uri ${KIPRJMOD}/project-rescue.lib)(options "")(descr ""))
+)
