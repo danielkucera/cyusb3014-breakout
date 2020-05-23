@@ -434,7 +434,7 @@ FLASH_SO
 Text GLabel 14900 10800 2    50   Input ~ 0
 FLASH_SI
 Text GLabel 14900 11600 2    50   Input ~ 0
-I2C-MCLK
+I2S-MCLK
 Text GLabel 14900 10000 2    50   Input ~ 0
 SS_RX_P
 Text GLabel 14900 9800 2    50   Input ~ 0
